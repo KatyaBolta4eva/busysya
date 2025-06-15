@@ -1,3 +1,6 @@
 console.log("busya");
 
-console.log('busya-developer')
+const age = 5;
+if(age) {
+    console.log(`busya ${age} years old`)
+}
